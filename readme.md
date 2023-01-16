@@ -12,6 +12,8 @@ Please read this Privacy Policy thoroughly to ensure that you understand our dat
 
 This Privacy Policy includes the following matters:
 
+About Vercel & iframe
+
 Personal Information which we collect
 
 The use of Personal Information which we collect
@@ -37,6 +39,9 @@ Anonymous Data
 Third party platforms
 
 How to contact us
+
+**ABOUT VERCEL & IFRAME**
+We have obtained permission from Vercel to be able to open website pages that have been hosted there
 
 **PERSONAL INFORMATION WHICH WE COLLECT**
 
